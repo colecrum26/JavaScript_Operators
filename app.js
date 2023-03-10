@@ -11,6 +11,7 @@ let minus = a - b;
 let multiply = a * b;
 let dividing = a / b;
 
+console.log("EXERCISE 1:\n==========\n")
 console.log(add);
 
 // Exercise 2
@@ -21,6 +22,7 @@ let isPresent = true;
 let firstName = "Frodo";
 let lastName = "Baggins";
 
+console.log("EXERCISE 2:\n==========\n")
 console.log(num + str);
 console.log(num + str2);
 console.log(num + isPresent);
@@ -34,6 +36,7 @@ let str3 = "5";
 let str4 = "five";
 let isPresent2 = false;
 
+console.log("EXERCISE 3:\n==========\n")
 console.log(val == str3);
 console.log(val === str3);
 console.log(!isPresent2);
