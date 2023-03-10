@@ -13,6 +13,9 @@ let dividing = a / b;
 
 console.log("EXERCISE 1:\n==========\n")
 console.log(add);
+console.log(minus);
+console.log(multiply);
+console.log(dividing);
 
 // Exercise 2
 let num = 11;
