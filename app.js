@@ -31,7 +31,7 @@ console.log(num + str2);
 console.log(num + isPresent);
 console.log(firstName + num);
 console.log(isPresent + str);
-console.log(firstName + lastName);
+console.log(`${firstName}${lastName}`);
 
 // Exercise 3
 let val = 5;
